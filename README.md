@@ -1,5 +1,11 @@
-Kredi Ödeme Tahmini Uygulaması
+
+                                                  
+                                                  Kredi Ödeme Tahmini Uygulaması
+
+                                                  
 Bu proje, bir kullanıcının kredi ödeme durumunu tahmin etmek amacıyla geliştirilmiş bir Python uygulamasıdır. Uygulama, kullanıcının kredi geçmişi ve diğer finansal bilgilerini analiz ederek, kredi ödemesini yapıp yapmayacağını tahmin eder. Uygulama, Streamlit kütüphanesi kullanılarak basit bir grafiksel kullanıcı arayüzü (GUI) ile tasarlanmıştır.
+
+
 
 Özellikler
 Kullanıcıdan finansal bilgileri toplar (örneğin, gelir, mevcut borçlar, ödeme geçmişi vb.).
@@ -15,15 +21,23 @@ Kurulum
 Bu depo, Python 3.x ile uyumludur. İlk olarak gerekli bağımlılıkları yüklemek için aşağıdaki komutu kullanın:
 
 
+
+
 Uygulamayı çalıştırmak için şu komutu kullanabilirsiniz:
+
+
 
 bash
 Kodu kopyala
-pip install streamlit numpy joblib
-streamlit run app.py
+#pip install streamlit numpy joblib
+#streamlit run app.py
+
+
 
 Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
+
+
 
 Bu depoyu forklayın.
 Yeni bir özellik veya düzeltme yapın.
