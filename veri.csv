@@ -1,0 +1,1001 @@
+Gelir,Yaş,Kredibilite_Skoru,Eğitim_Seviyesi,Ev_Durumu,Ödeme_Geçmişi,Hedef
+57450,61,586,Lisans,Ev Sahibi,Düzgün,1
+47926,66,601,Lisans,Ev Sahibi,Problemli,0
+59715,57,521,Ortaokul,Kiracı,Düzgün,1
+72845,28,664,Lise,Kiracı,Problemli,1
+46487,20,587,Lise,Ev Sahibi,Düzgün,1
+46487,23,641,Lise,Ev Sahibi,Düzgün,1
+73688,26,511,Lise,Kiracı,Düzgün,1
+61511,23,556,Lisans,Kiracı,Düzgün,1
+42957,26,672,Lise,Ev Sahibi,Problemli,0
+58138,56,562,Lise,Kiracı,Problemli,1
+43048,48,772,Lise,Kiracı,Düzgün,1
+43014,49,560,Lise,Kiracı,Düzgün,1
+53629,58,622,Ortaokul,Ev Sahibi,Düzgün,1
+21300,67,693,Lisans,Ev Sahibi,Problemli,0
+24126,29,458,Ortaokul,Ev Sahibi,Düzgün,0
+41565,25,423,Lisans,Ev Sahibi,Düzgün,0
+34807,25,447,Lise,Ev Sahibi,Düzgün,0
+54713,67,726,Lisans,Kiracı,Düzgün,1
+36379,45,544,Lisans,Ev Sahibi,Düzgün,1
+28815,37,855,Lise,Kiracı,Düzgün,1
+71984,64,543,Lisans,Ev Sahibi,Düzgün,1
+46613,24,618,Lise,Kiracı,Problemli,1
+51012,28,754,Ortaokul,Kiracı,Düzgün,1
+28628,37,800,Lisans,Kiracı,Düzgün,1
+41834,33,806,Lise,Kiracı,Düzgün,1
+51663,21,720,Lise,Kiracı,Problemli,1
+32735,23,702,Lise,Kiracı,Düzgün,1
+55635,39,659,Lisans,Ev Sahibi,Düzgün,1
+40990,43,677,Lisans,Kiracı,Düzgün,1
+45624,20,544,Lisans,Ev Sahibi,Düzgün,1
+40974,58,518,Lisans,Ev Sahibi,Düzgün,1
+77784,59,599,Lisans,Ev Sahibi,Problemli,1
+49797,31,582,Lise,Ev Sahibi,Problemli,1
+34134,28,554,Ortaokul,Ev Sahibi,Düzgün,1
+62338,35,669,Ortaokul,Kiracı,Düzgün,1
+31687,29,695,Lise,Kiracı,Problemli,0
+53132,40,608,Lisans,Kiracı,Düzgün,1
+20604,29,747,Lisans,Ev Sahibi,Problemli,0
+30077,30,485,Lisans,Ev Sahibi,Düzgün,0
+52952,42,580,Lisans,Kiracı,Problemli,1
+61076,62,528,Lise,Kiracı,Problemli,0
+52570,68,413,Lise,Ev Sahibi,Problemli,0
+48265,36,591,Lisans,Kiracı,Düzgün,1
+45483,63,587,Lisans,Ev Sahibi,Düzgün,1
+27822,53,751,Ortaokul,Ev Sahibi,Problemli,0
+39202,62,663,Lise,Ev Sahibi,Düzgün,1
+43090,25,497,Lisans,Ev Sahibi,Düzgün,0
+65856,46,785,Ortaokul,Ev Sahibi,Problemli,1
+55154,49,722,Ortaokul,Kiracı,Problemli,1
+23554,68,658,Lisans,Ev Sahibi,Problemli,0
+54861,61,577,Lisans,Ev Sahibi,Düzgün,1
+44223,35,504,Lise,Kiracı,Problemli,0
+39846,23,562,Ortaokul,Kiracı,Problemli,0
+59175,35,708,Ortaokul,Kiracı,Düzgün,1
+65464,36,788,Lisans,Kiracı,Düzgün,1
+63969,39,754,Lisans,Ev Sahibi,Düzgün,1
+37411,54,551,Lise,Ev Sahibi,Düzgün,1
+45361,49,488,Lise,Kiracı,Problemli,1
+54968,58,614,Lisans,Kiracı,Düzgün,1
+64633,20,423,Ortaokul,Ev Sahibi,Problemli,1
+42812,45,632,Lise,Kiracı,Problemli,0
+47215,27,585,Ortaokul,Kiracı,Düzgün,1
+33404,68,553,Ortaokul,Ev Sahibi,Problemli,0
+32056,52,440,Lise,Ev Sahibi,Düzgün,0
+62187,46,651,Lise,Kiracı,Problemli,1
+70343,32,546,Lise,Kiracı,Düzgün,1
+48919,50,483,Lisans,Kiracı,Problemli,1
+65052,24,312,Lise,Ev Sahibi,Düzgün,1
+55424,29,597,Lisans,Ev Sahibi,Düzgün,1
+40323,66,777,Lise,Kiracı,Problemli,0
+55420,47,766,Lisans,Ev Sahibi,Düzgün,1
+73070,38,554,Lisans,Ev Sahibi,Düzgün,1
+49462,48,539,Lisans,Kiracı,Düzgün,1
+73469,41,646,Lisans,Kiracı,Problemli,1
+10703,37,500,Lise,Ev Sahibi,Düzgün,0
+62328,54,630,Lise,Kiracı,Düzgün,1
+51305,21,676,Lise,Kiracı,Düzgün,1
+45514,45,722,Lisans,Ev Sahibi,Düzgün,1
+51376,61,589,Lisans,Ev Sahibi,Düzgün,1
+20186,37,579,Lisans,Ev Sahibi,Düzgün,1
+46704,41,512,Lisans,Ev Sahibi,Düzgün,1
+55356,67,517,Ortaokul,Ev Sahibi,Düzgün,1
+72168,66,577,Lisans,Kiracı,Düzgün,1
+42225,68,636,Lisans,Ev Sahibi,Problemli,0
+37872,49,691,Lisans,Kiracı,Düzgün,1
+42473,58,519,Lisans,Kiracı,Düzgün,1
+63731,53,749,Lise,Ev Sahibi,Düzgün,1
+54931,51,572,Lise,Ev Sahibi,Düzgün,1
+42053,53,597,Lisans,Kiracı,Problemli,0
+57699,19,525,Lisans,Ev Sahibi,Düzgün,1
+51456,32,357,Lisans,Kiracı,Düzgün,1
+64529,51,688,Lisans,Kiracı,Düzgün,1
+39469,53,673,Lisans,Kiracı,Düzgün,1
+45085,23,571,Ortaokul,Ev Sahibi,Düzgün,1
+44118,56,606,Lise,Ev Sahibi,Düzgün,1
+28047,59,651,Lise,Kiracı,Düzgün,1
+54441,68,443,Lise,Ev Sahibi,Problemli,0
+53915,68,547,Lise,Kiracı,Düzgün,1
+50076,29,679,Lise,Ev Sahibi,Düzgün,1
+46481,20,474,Lise,Kiracı,Problemli,1
+28769,62,629,Lise,Kiracı,Problemli,0
+43690,35,464,Lisans,Ev Sahibi,Düzgün,0
+44859,57,646,Lise,Kiracı,Problemli,0
+37965,38,596,Lise,Kiracı,Problemli,0
+47580,32,438,Ortaokul,Ev Sahibi,Düzgün,1
+56060,50,716,Lise,Ev Sahibi,Düzgün,1
+78292,52,526,Lise,Kiracı,Düzgün,1
+52618,43,518,Lisans,Kiracı,Problemli,1
+53863,25,620,Lise,Kiracı,Düzgün,1
+48883,53,714,Lisans,Ev Sahibi,Düzgün,1
+21218,65,498,Lisans,Kiracı,Problemli,0
+49602,47,606,Lisans,Ev Sahibi,Düzgün,1
+50903,40,642,Lise,Ev Sahibi,Düzgün,1
+86948,59,669,Lisans,Kiracı,Düzgün,1
+47114,61,617,Lisans,Kiracı,Düzgün,1
+54523,31,563,Ortaokul,Kiracı,Problemli,1
+49479,31,517,Lisans,Kiracı,Düzgün,1
+32469,19,608,Lise,Ev Sahibi,Problemli,0
+67142,54,492,Lise,Kiracı,Düzgün,1
+61278,22,307,Lisans,Kiracı,Düzgün,1
+61865,55,643,Lise,Ev Sahibi,Problemli,1
+36359,62,690,Lisans,Kiracı,Düzgün,1
+71041,58,363,Lise,Ev Sahibi,Düzgün,1
+28972,64,499,Lise,Kiracı,Düzgün,0
+58802,31,661,Lise,Ev Sahibi,Problemli,1
+82856,56,805,Lise,Ev Sahibi,Düzgün,1
+35141,42,602,Lisans,Ev Sahibi,Düzgün,1
+41505,37,527,Lisans,Ev Sahibi,Düzgün,1
+51494,19,581,Lise,Kiracı,Düzgün,1
+42447,56,737,Lise,Kiracı,Problemli,0
+26740,23,535,Ortaokul,Ev Sahibi,Düzgün,1
+51028,34,520,Ortaokul,Ev Sahibi,Düzgün,1
+34065,42,551,Ortaokul,Kiracı,Düzgün,1
+57103,45,504,Lise,Kiracı,Düzgün,1
+36208,19,612,Lisans,Kiracı,Problemli,0
+73249,52,762,Lise,Kiracı,Düzgün,1
+38251,54,632,Lise,Kiracı,Problemli,0
+45169,22,574,Lisans,Ev Sahibi,Düzgün,1
+62202,18,570,Ortaokul,Kiracı,Düzgün,1
+31537,57,443,Ortaokul,Kiracı,Problemli,0
+53411,29,688,Lise,Ev Sahibi,Düzgün,1
+69607,53,592,Lisans,Ev Sahibi,Problemli,1
+25887,62,581,Lisans,Ev Sahibi,Problemli,0
+52769,40,919,Ortaokul,Ev Sahibi,Düzgün,1
+53898,64,629,Ortaokul,Kiracı,Düzgün,1
+61727,48,524,Lisans,Ev Sahibi,Problemli,1
+31445,28,557,Lisans,Ev Sahibi,Düzgün,1
+30193,27,714,Ortaokul,Kiracı,Düzgün,1
+57829,20,611,Lisans,Ev Sahibi,Düzgün,1
+54454,31,456,Lise,Ev Sahibi,Düzgün,1
+53757,33,691,Ortaokul,Kiracı,Problemli,1
+55196,27,533,Lisans,Kiracı,Düzgün,1
+39799,46,787,Lise,Kiracı,Düzgün,1
+53483,27,708,Lisans,Kiracı,Düzgün,1
+54396,29,555,Lisans,Kiracı,Düzgün,1
+39284,47,728,Ortaokul,Ev Sahibi,Düzgün,1
+77986,58,606,Lise,Kiracı,Problemli,1
+57107,18,685,Ortaokul,Ev Sahibi,Düzgün,1
+32130,22,648,Lise,Ev Sahibi,Problemli,0
+59848,37,515,Lisans,Ev Sahibi,Problemli,1
+35379,25,535,Lisans,Ev Sahibi,Düzgün,1
+61806,60,702,Lisans,Kiracı,Düzgün,1
+67378,29,566,Lisans,Kiracı,Düzgün,1
+37689,18,559,Lisans,Ev Sahibi,Düzgün,1
+64450,37,504,Lisans,Ev Sahibi,Problemli,1
+56191,45,642,Lise,Ev Sahibi,Problemli,1
+62330,60,806,Lise,Kiracı,Düzgün,1
+78451,54,493,Lise,Ev Sahibi,Düzgün,1
+46319,64,602,Lise,Kiracı,Problemli,0
+38693,54,741,Lisans,Ev Sahibi,Problemli,0
+36657,29,592,Lisans,Ev Sahibi,Düzgün,1
+37762,54,645,Lise,Kiracı,Düzgün,1
+48843,66,493,Lise,Ev Sahibi,Düzgün,0
+55117,66,642,Lisans,Kiracı,Problemli,0
+54150,61,581,Ortaokul,Kiracı,Düzgün,1
+62407,45,698,Lise,Ev Sahibi,Düzgün,1
+50195,64,718,Lise,Ev Sahibi,Düzgün,1
+71803,32,858,Lisans,Ev Sahibi,Düzgün,1
+46030,23,657,Lise,Ev Sahibi,Düzgün,1
+90802,61,632,Lise,Kiracı,Problemli,0
+59385,37,619,Lise,Ev Sahibi,Düzgün,1
+37142,67,564,Lise,Ev Sahibi,Düzgün,1
+33936,31,633,Ortaokul,Kiracı,Düzgün,1
+57237,19,570,Lise,Ev Sahibi,Düzgün,1
+46648,26,616,Lisans,Kiracı,Düzgün,1
+60710,54,731,Lise,Ev Sahibi,Düzgün,1
+57098,37,499,Lise,Kiracı,Düzgün,1
+48907,43,713,Lise,Kiracı,Düzgün,1
+37298,46,731,Lisans,Kiracı,Düzgün,1
+27277,18,588,Lisans,Ev Sahibi,Düzgün,1
+43302,52,387,Ortaokul,Kiracı,Problemli,0
+62845,23,539,Lise,Kiracı,Problemli,1
+53211,54,729,Ortaokul,Ev Sahibi,Düzgün,1
+31313,22,597,Lise,Ev Sahibi,Düzgün,1
+52597,50,500,Lise,Kiracı,Problemli,1
+55779,66,549,Lise,Kiracı,Düzgün,1
+36742,68,684,Ortaokul,Kiracı,Problemli,0
+52305,31,654,Lise,Kiracı,Problemli,1
+50873,29,576,Lise,Ev Sahibi,Düzgün,1
+32855,59,563,Lisans,Ev Sahibi,Düzgün,1
+55366,37,560,Lise,Ev Sahibi,Problemli,1
+58411,67,507,Lise,Kiracı,Düzgün,1
+66245,41,761,Lisans,Ev Sahibi,Düzgün,1
+65807,60,567,Lisans,Ev Sahibi,Düzgün,1
+29334,51,721,Lisans,Ev Sahibi,Düzgün,1
+35932,42,752,Lisans,Ev Sahibi,Düzgün,1
+57725,67,699,Lisans,Ev Sahibi,Problemli,0
+57706,46,556,Lise,Ev Sahibi,Problemli,1
+57725,56,640,Ortaokul,Kiracı,Düzgün,1
+107790,48,597,Lise,Ev Sahibi,Düzgün,1
+58563,64,509,Lisans,Ev Sahibi,Düzgün,1
+67033,60,632,Lisans,Ev Sahibi,Düzgün,1
+64310,67,482,Lise,Kiracı,Düzgün,0
+59770,40,718,Lisans,Ev Sahibi,Problemli,1
+45270,61,553,Ortaokul,Ev Sahibi,Problemli,0
+61384,55,620,Lise,Kiracı,Düzgün,1
+38407,37,628,Lise,Kiracı,Düzgün,1
+46447,40,574,Lisans,Ev Sahibi,Düzgün,1
+42719,62,658,Lise,Ev Sahibi,Düzgün,1
+51228,69,552,Lisans,Ev Sahibi,Düzgün,1
+84719,33,687,Ortaokul,Kiracı,Düzgün,1
+21991,67,465,Lise,Ev Sahibi,Problemli,0
+60293,59,612,Lisans,Kiracı,Düzgün,1
+25809,25,793,Lisans,Kiracı,Düzgün,1
+42921,67,499,Lisans,Kiracı,Problemli,0
+66334,38,532,Lise,Kiracı,Düzgün,1
+50964,18,651,Lisans,Kiracı,Düzgün,1
+33833,25,617,Lise,Kiracı,Düzgün,1
+39270,46,635,Lisans,Kiracı,Düzgün,1
+60193,49,648,Lise,Kiracı,Problemli,1
+39044,55,663,Ortaokul,Ev Sahibi,Düzgün,1
+53246,22,710,Lise,Kiracı,Problemli,1
+50683,64,640,Lise,Kiracı,Düzgün,1
+40225,39,575,Lisans,Ev Sahibi,Düzgün,1
+82159,64,667,Lisans,Kiracı,Problemli,0
+59508,51,789,Lise,Ev Sahibi,Düzgün,1
+19622,18,586,Lisans,Kiracı,Düzgün,1
+52796,43,502,Lise,Kiracı,Düzgün,1
+40073,60,710,Lisans,Ev Sahibi,Düzgün,1
+62786,27,587,Lisans,Ev Sahibi,Düzgün,1
+38112,47,382,Lisans,Ev Sahibi,Düzgün,0
+48278,67,684,Ortaokul,Ev Sahibi,Düzgün,1
+57574,35,546,Lisans,Ev Sahibi,Düzgün,1
+62986,34,590,Lise,Kiracı,Problemli,1
+31995,43,633,Lisans,Kiracı,Düzgün,1
+44982,25,619,Lise,Kiracı,Problemli,0
+42875,64,670,Lisans,Kiracı,Düzgün,1
+40200,57,556,Ortaokul,Ev Sahibi,Düzgün,1
+76481,66,651,Ortaokul,Ev Sahibi,Problemli,0
+56074,29,574,Lisans,Kiracı,Düzgün,1
+31086,44,673,Ortaokul,Ev Sahibi,Problemli,0
+63767,25,661,Ortaokul,Ev Sahibi,Düzgün,1
+81832,42,506,Ortaokul,Kiracı,Düzgün,1
+65486,63,708,Ortaokul,Kiracı,Düzgün,1
+27209,21,546,Lisans,Kiracı,Düzgün,1
+42736,50,680,Lise,Kiracı,Problemli,0
+69003,18,636,Lisans,Kiracı,Düzgün,1
+39384,36,783,Lisans,Ev Sahibi,Problemli,0
+56657,48,577,Ortaokul,Kiracı,Problemli,1
+61619,33,565,Lisans,Kiracı,Düzgün,1
+36096,31,598,Lise,Ev Sahibi,Düzgün,1
+49107,65,569,Ortaokul,Ev Sahibi,Problemli,0
+1380,22,679,Ortaokul,Ev Sahibi,Problemli,0
+34634,58,438,Ortaokul,Kiracı,Düzgün,0
+46211,43,494,Lisans,Kiracı,Düzgün,1
+31283,45,493,Lisans,Ev Sahibi,Düzgün,0
+74486,19,695,Lise,Kiracı,Düzgün,1
+28547,67,771,Lisans,Kiracı,Düzgün,1
+43399,23,589,Lisans,Ev Sahibi,Problemli,0
+51961,26,583,Lisans,Ev Sahibi,Düzgün,1
+71619,50,607,Lise,Kiracı,Düzgün,1
+28462,58,716,Lise,Kiracı,Düzgün,1
+67447,42,507,Lisans,Kiracı,Düzgün,1
+50153,65,623,Lise,Kiracı,Düzgün,1
+35277,30,697,Lisans,Kiracı,Düzgün,1
+56931,26,650,Lisans,Kiracı,Düzgün,1
+52985,30,618,Lise,Kiracı,Düzgün,1
+40996,48,700,Lise,Ev Sahibi,Düzgün,1
+51047,58,329,Lise,Ev Sahibi,Problemli,1
+44220,28,667,Lisans,Ev Sahibi,Düzgün,1
+51702,21,534,Ortaokul,Kiracı,Düzgün,1
+59931,51,416,Lise,Kiracı,Düzgün,1
+73790,55,651,Lise,Kiracı,Problemli,1
+31432,63,737,Lise,Kiracı,Düzgün,1
+81995,21,586,Ortaokul,Kiracı,Düzgün,1
+20718,55,695,Lise,Ev Sahibi,Problemli,0
+47723,36,761,Lise,Ev Sahibi,Düzgün,1
+58824,23,731,Ortaokul,Ev Sahibi,Düzgün,1
+54214,51,763,Lise,Kiracı,Düzgün,1
+40659,35,674,Lise,Ev Sahibi,Düzgün,1
+46878,30,607,Lise,Kiracı,Düzgün,1
+42604,58,439,Lisans,Kiracı,Problemli,0
+41159,40,575,Lisans,Kiracı,Düzgün,1
+62744,36,515,Lise,Ev Sahibi,Problemli,1
+55355,62,817,Ortaokul,Ev Sahibi,Düzgün,1
+39606,28,582,Ortaokul,Kiracı,Problemli,0
+63493,18,612,Lisans,Ev Sahibi,Düzgün,1
+54609,41,655,Lise,Ev Sahibi,Düzgün,1
+62192,24,604,Lisans,Kiracı,Düzgün,1
+59444,42,769,Ortaokul,Kiracı,Problemli,1
+37565,38,537,Ortaokul,Kiracı,Düzgün,1
+41597,32,619,Lise,Ev Sahibi,Düzgün,1
+61209,18,525,Ortaokul,Kiracı,Düzgün,1
+59155,29,467,Lise,Ev Sahibi,Düzgün,1
+49686,24,538,Lise,Kiracı,Düzgün,1
+51759,32,596,Lisans,Ev Sahibi,Düzgün,1
+69164,38,557,Lise,Kiracı,Düzgün,1
+41126,36,530,Lise,Ev Sahibi,Düzgün,1
+58206,46,459,Lise,Ev Sahibi,Düzgün,1
+46967,42,591,Lisans,Ev Sahibi,Düzgün,1
+46734,50,449,Ortaokul,Ev Sahibi,Problemli,1
+66481,66,676,Lisans,Kiracı,Düzgün,1
+62381,49,608,Lise,Ev Sahibi,Düzgün,1
+62202,66,454,Lise,Kiracı,Düzgün,0
+69582,52,569,Lise,Kiracı,Problemli,1
+50315,61,524,Lise,Ev Sahibi,Problemli,0
+60229,55,631,Lisans,Kiracı,Problemli,1
+45345,43,734,Lisans,Ev Sahibi,Düzgün,1
+54862,28,412,Lise,Ev Sahibi,Düzgün,1
+48047,52,611,Lise,Kiracı,Düzgün,1
+51454,25,583,Lisans,Ev Sahibi,Düzgün,1
+58927,63,667,Lise,Kiracı,Düzgün,1
+37726,31,621,Lise,Kiracı,Problemli,0
+81385,27,524,Lise,Kiracı,Problemli,1
+34909,19,568,Ortaokul,Ev Sahibi,Problemli,0
+31787,63,520,Lisans,Ev Sahibi,Düzgün,1
+67371,26,707,Lisans,Ev Sahibi,Düzgün,1
+61874,20,602,Lise,Ev Sahibi,Düzgün,1
+59361,38,790,Lise,Kiracı,Düzgün,1
+59425,43,593,Lise,Kiracı,Problemli,1
+49816,25,529,Ortaokul,Ev Sahibi,Düzgün,1
+36541,65,448,Ortaokul,Kiracı,Düzgün,0
+51137,19,419,Ortaokul,Kiracı,Düzgün,1
+39842,23,441,Lise,Kiracı,Düzgün,0
+64626,45,626,Lise,Ev Sahibi,Problemli,1
+47794,46,650,Lise,Ev Sahibi,Düzgün,1
+37617,43,441,Lisans,Kiracı,Problemli,0
+45179,42,689,Lise,Kiracı,Düzgün,1
+56193,29,551,Lisans,Ev Sahibi,Düzgün,1
+41544,22,614,Ortaokul,Ev Sahibi,Problemli,0
+37666,51,761,Lise,Kiracı,Düzgün,1
+53655,65,689,Lise,Ev Sahibi,Problemli,0
+53674,54,573,Lisans,Kiracı,Düzgün,1
+42395,32,510,Lisans,Kiracı,Düzgün,1
+42934,61,384,Lisans,Ev Sahibi,Düzgün,0
+53480,53,528,Lise,Ev Sahibi,Problemli,1
+28278,32,578,Lisans,Kiracı,Düzgün,1
+28888,60,501,Lise,Ev Sahibi,Problemli,0
+39223,65,586,Ortaokul,Ev Sahibi,Düzgün,1
+46798,40,607,Ortaokul,Ev Sahibi,Düzgün,1
+54663,23,577,Lise,Ev Sahibi,Düzgün,1
+72130,63,534,Lisans,Ev Sahibi,Düzgün,1
+62864,67,616,Ortaokul,Kiracı,Düzgün,1
+47600,61,644,Ortaokul,Kiracı,Problemli,0
+49714,60,490,Lisans,Kiracı,Düzgün,0
+34962,62,741,Lise,Kiracı,Düzgün,1
+49722,38,590,Lisans,Ev Sahibi,Düzgün,1
+45670,40,601,Ortaokul,Ev Sahibi,Düzgün,1
+54840,60,670,Ortaokul,Kiracı,Düzgün,1
+37591,33,623,Lisans,Kiracı,Düzgün,1
+57790,64,695,Ortaokul,Kiracı,Düzgün,1
+72991,32,628,Lise,Kiracı,Düzgün,1
+48368,42,538,Ortaokul,Ev Sahibi,Düzgün,1
+56025,53,636,Lise,Kiracı,Düzgün,1
+60352,28,485,Ortaokul,Ev Sahibi,Düzgün,1
+43981,68,610,Lisans,Ev Sahibi,Düzgün,1
+53361,32,596,Lisans,Kiracı,Düzgün,1
+50188,21,579,Lisans,Kiracı,Problemli,1
+51465,38,587,Ortaokul,Kiracı,Problemli,1
+38404,30,411,Ortaokul,Ev Sahibi,Problemli,0
+50367,39,545,Ortaokul,Ev Sahibi,Düzgün,1
+57469,36,609,Ortaokul,Kiracı,Problemli,1
+71767,51,615,Lisans,Ev Sahibi,Problemli,1
+64389,31,497,Lisans,Ev Sahibi,Problemli,1
+82297,21,726,Lisans,Kiracı,Düzgün,1
+38489,65,513,Lisans,Kiracı,Düzgün,1
+63084,69,696,Lisans,Ev Sahibi,Problemli,0
+52750,63,642,Lise,Ev Sahibi,Düzgün,1
+82847,44,535,Lisans,Ev Sahibi,Düzgün,1
+37875,46,777,Lisans,Ev Sahibi,Düzgün,1
+37404,64,480,Lisans,Ev Sahibi,Düzgün,0
+41009,45,691,Lisans,Kiracı,Düzgün,1
+18141,52,700,Ortaokul,Ev Sahibi,Düzgün,1
+42113,25,532,Lise,Ev Sahibi,Düzgün,1
+38613,33,739,Ortaokul,Ev Sahibi,Düzgün,1
+52255,59,574,Lise,Kiracı,Düzgün,1
+55126,53,628,Lisans,Kiracı,Düzgün,1
+78142,47,626,Lise,Kiracı,Düzgün,1
+64256,35,586,Lisans,Kiracı,Düzgün,1
+41346,19,681,Lisans,Kiracı,Problemli,0
+36523,66,679,Lisans,Ev Sahibi,Düzgün,1
+57378,30,425,Lisans,Ev Sahibi,Düzgün,1
+30196,21,730,Lisans,Kiracı,Düzgün,1
+77471,43,433,Lisans,Ev Sahibi,Problemli,1
+67691,42,703,Lise,Kiracı,Düzgün,1
+42962,47,712,Lisans,Kiracı,Düzgün,1
+24302,28,490,Lisans,Kiracı,Düzgün,0
+70308,24,558,Ortaokul,Ev Sahibi,Düzgün,1
+48281,48,489,Lisans,Kiracı,Problemli,1
+68567,61,578,Lisans,Kiracı,Problemli,0
+26083,27,569,Ortaokul,Kiracı,Düzgün,1
+41009,56,677,Lisans,Ev Sahibi,Düzgün,1
+50078,30,731,Lisans,Kiracı,Düzgün,1
+50704,48,739,Lise,Ev Sahibi,Düzgün,1
+43249,24,543,Lisans,Ev Sahibi,Düzgün,1
+59342,66,579,Lise,Ev Sahibi,Düzgün,1
+33985,59,431,Ortaokul,Ev Sahibi,Düzgün,0
+47864,59,519,Lisans,Kiracı,Düzgün,1
+51804,53,696,Lise,Kiracı,Problemli,1
+57716,37,761,Lise,Ev Sahibi,Düzgün,1
+60674,21,476,Lisans,Kiracı,Problemli,1
+33130,24,540,Lise,Ev Sahibi,Problemli,0
+26988,18,597,Lisans,Ev Sahibi,Düzgün,1
+69165,61,628,Lise,Ev Sahibi,Problemli,0
+54984,62,519,Lisans,Ev Sahibi,Düzgün,1
+38772,59,642,Lise,Ev Sahibi,Düzgün,1
+73267,64,552,Lisans,Ev Sahibi,Düzgün,1
+51735,30,598,Ortaokul,Kiracı,Problemli,1
+67689,39,654,Lisans,Ev Sahibi,Düzgün,1
+51012,38,600,Lise,Kiracı,Düzgün,1
+80911,39,556,Lise,Kiracı,Problemli,1
+76330,45,589,Lise,Ev Sahibi,Düzgün,1
+46265,26,591,Lise,Kiracı,Düzgün,1
+64573,43,562,Lise,Kiracı,Problemli,1
+59680,26,574,Lise,Kiracı,Problemli,1
+70529,32,759,Ortaokul,Ev Sahibi,Problemli,1
+35526,27,656,Lisans,Ev Sahibi,Problemli,0
+60290,41,570,Lise,Ev Sahibi,Düzgün,1
+65876,59,669,Ortaokul,Kiracı,Problemli,1
+23618,25,566,Ortaokul,Ev Sahibi,Düzgün,1
+32251,41,717,Ortaokul,Ev Sahibi,Düzgün,1
+19411,33,636,Lisans,Kiracı,Düzgün,1
+45958,66,589,Lisans,Kiracı,Düzgün,1
+60763,43,644,Lise,Kiracı,Problemli,1
+72535,44,442,Lise,Ev Sahibi,Problemli,1
+51111,54,487,Lise,Ev Sahibi,Düzgün,1
+74429,21,480,Lise,Ev Sahibi,Düzgün,1
+29298,67,614,Ortaokul,Kiracı,Düzgün,1
+24449,41,773,Lisans,Ev Sahibi,Problemli,0
+49166,36,823,Ortaokul,Ev Sahibi,Problemli,1
+55760,53,663,Lise,Ev Sahibi,Düzgün,1
+49509,56,650,Lisans,Ev Sahibi,Düzgün,1
+18988,27,419,Lise,Kiracı,Düzgün,0
+48663,42,545,Lise,Kiracı,Düzgün,1
+30432,35,521,Lisans,Ev Sahibi,Problemli,0
+60045,36,537,Lisans,Ev Sahibi,Düzgün,1
+55498,53,583,Ortaokul,Ev Sahibi,Düzgün,1
+35901,27,552,Lisans,Kiracı,Düzgün,1
+42291,50,402,Lise,Ev Sahibi,Düzgün,0
+34111,67,674,Lise,Kiracı,Problemli,0
+49059,22,492,Lise,Kiracı,Düzgün,1
+64327,64,623,Lise,Ev Sahibi,Düzgün,1
+35214,66,807,Lisans,Ev Sahibi,Düzgün,1
+57560,52,508,Lise,Kiracı,Düzgün,1
+42046,61,346,Lisans,Kiracı,Düzgün,0
+38106,51,571,Lise,Kiracı,Problemli,0
+48394,50,710,Lisans,Kiracı,Düzgün,1
+34471,38,795,Lise,Ev Sahibi,Düzgün,1
+41695,34,477,Lisans,Ev Sahibi,Düzgün,0
+32031,39,649,Lisans,Kiracı,Düzgün,1
+79470,65,553,Lisans,Ev Sahibi,Düzgün,1
+50528,54,589,Lisans,Ev Sahibi,Düzgün,1
+39504,32,864,Ortaokul,Ev Sahibi,Problemli,0
+53209,52,449,Lisans,Kiracı,Problemli,1
+48315,45,625,Ortaokul,Ev Sahibi,Düzgün,1
+46685,24,646,Ortaokul,Kiracı,Düzgün,1
+59212,49,708,Lise,Kiracı,Düzgün,1
+61362,28,609,Lisans,Kiracı,Düzgün,1
+42042,27,630,Lisans,Kiracı,Problemli,0
+41362,26,560,Lise,Kiracı,Düzgün,1
+45874,31,626,Lisans,Kiracı,Düzgün,1
+15471,30,565,Lisans,Kiracı,Problemli,0
+27272,42,662,Lise,Ev Sahibi,Problemli,0
+70503,19,563,Ortaokul,Ev Sahibi,Düzgün,1
+74674,52,637,Lise,Kiracı,Düzgün,1
+46264,24,597,Lisans,Ev Sahibi,Düzgün,1
+58648,38,712,Lise,Ev Sahibi,Düzgün,1
+54668,35,594,Lisans,Ev Sahibi,Problemli,1
+96183,20,422,Lisans,Kiracı,Problemli,1
+66793,59,726,Ortaokul,Ev Sahibi,Problemli,1
+48081,56,509,Lisans,Ev Sahibi,Düzgün,1
+35666,58,534,Lisans,Ev Sahibi,Problemli,0
+25903,66,540,Lisans,Kiracı,Düzgün,1
+53051,28,737,Ortaokul,Ev Sahibi,Düzgün,1
+38654,56,386,Lise,Ev Sahibi,Düzgün,0
+28666,41,913,Lise,Ev Sahibi,Düzgün,1
+40301,63,705,Lise,Kiracı,Problemli,0
+33776,36,622,Lisans,Kiracı,Düzgün,1
+75307,21,594,Lise,Ev Sahibi,Düzgün,1
+63224,43,628,Lisans,Ev Sahibi,Düzgün,1
+49880,55,652,Lisans,Kiracı,Düzgün,1
+72199,59,664,Lise,Ev Sahibi,Düzgün,1
+51160,49,655,Ortaokul,Kiracı,Düzgün,1
+37080,56,608,Lisans,Ev Sahibi,Problemli,0
+72846,62,580,Lisans,Ev Sahibi,Düzgün,1
+58083,63,584,Lisans,Ev Sahibi,Düzgün,1
+34441,53,580,Lisans,Ev Sahibi,Düzgün,1
+47144,57,713,Ortaokul,Kiracı,Problemli,1
+36865,54,659,Lise,Ev Sahibi,Düzgün,1
+29258,50,305,Lise,Kiracı,Düzgün,0
+63892,53,665,Lise,Ev Sahibi,Düzgün,1
+78641,20,619,Lisans,Ev Sahibi,Düzgün,1
+29021,26,598,Lise,Ev Sahibi,Düzgün,1
+58444,25,561,Lise,Kiracı,Problemli,1
+40240,50,712,Lise,Ev Sahibi,Düzgün,1
+42693,23,694,Ortaokul,Kiracı,Düzgün,1
+41114,58,522,Lise,Kiracı,Problemli,0
+37040,56,640,Lisans,Ev Sahibi,Düzgün,1
+50727,21,502,Ortaokul,Kiracı,Düzgün,1
+37535,30,462,Lisans,Ev Sahibi,Düzgün,0
+54056,66,537,Lisans,Kiracı,Düzgün,1
+49246,19,686,Lisans,Kiracı,Düzgün,1
+46415,22,695,Lisans,Ev Sahibi,Düzgün,1
+36386,61,651,Lise,Ev Sahibi,Problemli,0
+41348,44,672,Lise,Kiracı,Problemli,0
+61330,49,651,Ortaokul,Ev Sahibi,Düzgün,1
+57513,38,535,Lise,Ev Sahibi,Düzgün,1
+35336,25,643,Lise,Ev Sahibi,Düzgün,1
+51489,55,680,Lisans,Kiracı,Problemli,1
+61270,25,675,Lisans,Ev Sahibi,Düzgün,1
+24958,67,718,Lise,Ev Sahibi,Düzgün,1
+58150,20,670,Lise,Ev Sahibi,Problemli,1
+40060,61,635,Ortaokul,Kiracı,Problemli,0
+58558,20,707,Lisans,Ev Sahibi,Problemli,1
+38551,39,597,Lisans,Ev Sahibi,Düzgün,1
+22926,23,511,Lise,Ev Sahibi,Problemli,0
+25586,19,583,Lisans,Kiracı,Problemli,0
+50721,40,525,Lisans,Ev Sahibi,Düzgün,1
+53895,61,532,Lise,Ev Sahibi,Düzgün,1
+36435,19,585,Lisans,Kiracı,Düzgün,1
+59578,55,520,Lise,Kiracı,Problemli,1
+25077,34,569,Lisans,Ev Sahibi,Düzgün,1
+49008,52,410,Lisans,Kiracı,Düzgün,1
+31834,51,621,Lisans,Ev Sahibi,Düzgün,1
+40222,40,600,Ortaokul,Ev Sahibi,Problemli,0
+50710,47,518,Lisans,Ev Sahibi,Düzgün,1
+37093,69,665,Lise,Kiracı,Düzgün,1
+44231,25,693,Lisans,Kiracı,Düzgün,1
+65094,39,439,Lise,Ev Sahibi,Problemli,1
+41346,61,523,Lisans,Kiracı,Düzgün,1
+62535,53,523,Lise,Ev Sahibi,Düzgün,1
+33054,22,506,Lise,Kiracı,Problemli,0
+57947,30,682,Ortaokul,Kiracı,Düzgün,1
+71623,46,580,Lisans,Kiracı,Problemli,1
+12925,48,573,Lisans,Ev Sahibi,Düzgün,1
+38046,64,399,Lisans,Ev Sahibi,Düzgün,0
+58656,33,663,Ortaokul,Kiracı,Düzgün,1
+46954,59,476,Lise,Kiracı,Düzgün,1
+55567,47,605,Lise,Kiracı,Düzgün,1
+40940,33,627,Lisans,Ev Sahibi,Düzgün,1
+51298,29,736,Lisans,Kiracı,Problemli,1
+47664,34,469,Lisans,Ev Sahibi,Düzgün,1
+67516,33,298,Ortaokul,Ev Sahibi,Düzgün,1
+53816,29,618,Lise,Ev Sahibi,Düzgün,1
+55064,25,780,Ortaokul,Kiracı,Problemli,1
+43821,37,723,Lisans,Ev Sahibi,Düzgün,1
+42685,20,620,Lise,Kiracı,Düzgün,1
+43511,33,550,Lise,Kiracı,Düzgün,1
+55916,47,680,Lisans,Ev Sahibi,Düzgün,1
+43685,62,502,Ortaokul,Ev Sahibi,Düzgün,1
+54346,40,647,Ortaokul,Kiracı,Problemli,1
+81131,45,650,Ortaokul,Kiracı,Düzgün,1
+63066,68,706,Lise,Ev Sahibi,Problemli,0
+45109,57,875,Lisans,Kiracı,Düzgün,1
+68018,22,639,Lisans,Ev Sahibi,Düzgün,1
+43878,37,549,Ortaokul,Ev Sahibi,Problemli,0
+19428,57,597,Lisans,Kiracı,Düzgün,1
+34878,61,423,Lise,Kiracı,Problemli,0
+21938,18,530,Lise,Kiracı,Düzgün,1
+44727,47,559,Lise,Ev Sahibi,Problemli,0
+50276,38,547,Ortaokul,Ev Sahibi,Düzgün,1
+75146,37,615,Lisans,Kiracı,Düzgün,1
+54903,23,517,Lisans,Ev Sahibi,Düzgün,1
+46713,39,712,Lisans,Ev Sahibi,Düzgün,1
+62441,35,600,Lise,Kiracı,Düzgün,1
+16832,25,599,Lisans,Ev Sahibi,Düzgün,1
+53534,56,567,Lisans,Kiracı,Düzgün,1
+61562,49,615,Ortaokul,Kiracı,Düzgün,1
+27821,50,682,Ortaokul,Kiracı,Problemli,0
+67156,33,513,Lisans,Kiracı,Düzgün,1
+55077,29,534,Lisans,Kiracı,Düzgün,1
+43770,55,569,Ortaokul,Kiracı,Düzgün,1
+59491,69,465,Lisans,Ev Sahibi,Düzgün,0
+84060,51,518,Lisans,Ev Sahibi,Düzgün,1
+52727,31,552,Lisans,Ev Sahibi,Düzgün,1
+53723,53,687,Lise,Kiracı,Problemli,1
+43109,50,626,Lisans,Kiracı,Problemli,0
+37252,40,619,Ortaokul,Kiracı,Düzgün,1
+62455,67,685,Lise,Ev Sahibi,Düzgün,1
+37158,62,586,Lise,Ev Sahibi,Düzgün,1
+51073,19,639,Lisans,Kiracı,Düzgün,1
+42835,58,589,Lise,Kiracı,Düzgün,1
+57184,38,626,Lise,Ev Sahibi,Düzgün,1
+55004,19,541,Lise,Kiracı,Düzgün,1
+65563,44,356,Lise,Kiracı,Düzgün,1
+42349,26,586,Lise,Ev Sahibi,Düzgün,1
+45951,18,742,Ortaokul,Ev Sahibi,Problemli,1
+35318,28,692,Ortaokul,Kiracı,Düzgün,1
+43335,20,696,Lise,Kiracı,Problemli,0
+55659,69,723,Lisans,Ev Sahibi,Problemli,0
+61354,40,608,Lisans,Kiracı,Düzgün,1
+36167,43,619,Lisans,Kiracı,Düzgün,1
+63044,21,538,Lise,Kiracı,Düzgün,1
+70334,35,568,Lise,Kiracı,Problemli,1
+56201,23,661,Lise,Kiracı,Problemli,1
+78151,52,720,Ortaokul,Ev Sahibi,Düzgün,1
+38393,39,586,Ortaokul,Kiracı,Düzgün,1
+31330,60,554,Ortaokul,Kiracı,Problemli,0
+23319,32,600,Lisans,Ev Sahibi,Düzgün,1
+72440,39,660,Lise,Ev Sahibi,Problemli,1
+59815,54,455,Lisans,Ev Sahibi,Problemli,1
+49166,69,370,Lisans,Ev Sahibi,Düzgün,0
+54199,59,544,Lisans,Kiracı,Düzgün,1
+33117,29,477,Lisans,Ev Sahibi,Düzgün,0
+86686,64,549,Lise,Kiracı,Düzgün,1
+51938,66,585,Ortaokul,Ev Sahibi,Düzgün,1
+51640,59,554,Lisans,Kiracı,Problemli,1
+60886,55,745,Lise,Ev Sahibi,Problemli,1
+57215,35,632,Lise,Ev Sahibi,Problemli,1
+53358,62,630,Lisans,Kiracı,Düzgün,1
+38142,52,662,Lise,Ev Sahibi,Problemli,0
+57072,47,486,Lisans,Ev Sahibi,Problemli,1
+78230,41,703,Lise,Ev Sahibi,Düzgün,1
+70181,59,592,Lise,Kiracı,Düzgün,1
+73897,47,667,Lisans,Ev Sahibi,Düzgün,1
+42331,31,492,Lisans,Kiracı,Problemli,0
+35155,23,444,Lise,Kiracı,Düzgün,0
+48113,20,681,Ortaokul,Kiracı,Problemli,1
+50835,33,637,Lisans,Kiracı,Düzgün,1
+66412,24,509,Lise,Ev Sahibi,Problemli,1
+24613,69,513,Lise,Kiracı,Düzgün,1
+72943,31,712,Ortaokul,Ev Sahibi,Düzgün,1
+47629,26,481,Ortaokul,Kiracı,Düzgün,1
+43596,32,764,Lise,Kiracı,Düzgün,1
+34818,38,509,Lise,Kiracı,Problemli,0
+25177,52,663,Ortaokul,Kiracı,Düzgün,1
+62347,19,567,Lisans,Kiracı,Düzgün,1
+51099,44,660,Lisans,Kiracı,Düzgün,1
+30650,19,545,Lisans,Ev Sahibi,Düzgün,1
+30573,52,583,Ortaokul,Kiracı,Düzgün,1
+44963,35,604,Ortaokul,Kiracı,Düzgün,1
+75035,31,499,Lisans,Kiracı,Problemli,1
+46106,37,674,Lise,Ev Sahibi,Düzgün,1
+27452,35,548,Lise,Ev Sahibi,Problemli,0
+46313,27,577,Lisans,Kiracı,Problemli,1
+45909,42,500,Ortaokul,Kiracı,Düzgün,1
+9546,19,343,Lisans,Kiracı,Düzgün,0
+49185,42,580,Lisans,Ev Sahibi,Düzgün,1
+46535,50,841,Lise,Kiracı,Problemli,1
+60443,53,678,Lise,Kiracı,Problemli,1
+77734,48,598,Lisans,Kiracı,Düzgün,1
+66898,31,573,Lise,Kiracı,Problemli,1
+45966,18,602,Lise,Kiracı,Düzgün,1
+33402,63,654,Lisans,Ev Sahibi,Problemli,0
+88600,33,481,Lisans,Kiracı,Problemli,1
+50888,63,711,Lise,Ev Sahibi,Düzgün,1
+50208,69,671,Lisans,Kiracı,Düzgün,1
+49638,20,671,Ortaokul,Kiracı,Düzgün,1
+52971,52,643,Ortaokul,Ev Sahibi,Düzgün,1
+47834,58,601,Ortaokul,Kiracı,Problemli,1
+41395,23,667,Lisans,Ev Sahibi,Düzgün,1
+41797,42,659,Ortaokul,Ev Sahibi,Düzgün,1
+49508,30,564,Lise,Kiracı,Düzgün,1
+41848,51,542,Lisans,Ev Sahibi,Problemli,0
+39307,25,610,Lisans,Kiracı,Düzgün,1
+51596,38,754,Lisans,Ev Sahibi,Düzgün,1
+46175,51,476,Lise,Kiracı,Düzgün,1
+72559,21,453,Lise,Ev Sahibi,Problemli,1
+10235,42,616,Lisans,Kiracı,Problemli,0
+66372,32,605,Lise,Ev Sahibi,Düzgün,1
+68691,21,617,Lisans,Ev Sahibi,Düzgün,1
+18899,62,624,Lise,Ev Sahibi,Düzgün,1
+44859,29,577,Lisans,Ev Sahibi,Düzgün,1
+44428,49,748,Ortaokul,Ev Sahibi,Düzgün,1
+28887,49,439,Ortaokul,Ev Sahibi,Problemli,0
+38332,45,517,Lise,Kiracı,Düzgün,1
+33341,30,589,Lisans,Kiracı,Problemli,0
+76284,48,435,Lisans,Kiracı,Düzgün,1
+64035,31,582,Ortaokul,Kiracı,Problemli,1
+69073,37,766,Lisans,Kiracı,Problemli,1
+60825,35,602,Lisans,Ev Sahibi,Düzgün,1
+33064,46,623,Lisans,Kiracı,Düzgün,1
+42132,23,473,Lise,Ev Sahibi,Düzgün,0
+57340,49,538,Lise,Kiracı,Düzgün,1
+31668,46,562,Ortaokul,Kiracı,Düzgün,1
+60694,60,568,Lisans,Ev Sahibi,Düzgün,1
+46395,19,728,Lisans,Ev Sahibi,Problemli,1
+44377,40,655,Ortaokul,Ev Sahibi,Düzgün,1
+60664,36,488,Ortaokul,Ev Sahibi,Problemli,1
+56663,48,624,Lisans,Kiracı,Düzgün,1
+44585,68,649,Lise,Ev Sahibi,Problemli,0
+67389,22,714,Lisans,Kiracı,Düzgün,1
+33784,36,758,Ortaokul,Kiracı,Problemli,0
+59239,51,498,Lisans,Kiracı,Düzgün,1
+58896,27,518,Ortaokul,Kiracı,Düzgün,1
+45356,42,474,Lise,Kiracı,Düzgün,1
+54891,19,576,Lise,Ev Sahibi,Düzgün,1
+31233,28,646,Lisans,Ev Sahibi,Düzgün,1
+63860,67,698,Lise,Kiracı,Düzgün,1
+47226,48,592,Lise,Kiracı,Düzgün,1
+42159,32,568,Lisans,Kiracı,Problemli,0
+65735,26,615,Lise,Kiracı,Düzgün,1
+39434,40,516,Ortaokul,Ev Sahibi,Düzgün,1
+28873,36,808,Lise,Kiracı,Problemli,0
+26650,26,439,Lise,Ev Sahibi,Düzgün,0
+59090,52,618,Lisans,Kiracı,Düzgün,1
+30793,38,802,Lise,Ev Sahibi,Düzgün,1
+76321,26,600,Lisans,Kiracı,Problemli,1
+18771,45,580,Lise,Ev Sahibi,Problemli,0
+75446,63,564,Ortaokul,Kiracı,Problemli,0
+53165,68,581,Lise,Ev Sahibi,Düzgün,1
+48549,24,737,Lisans,Kiracı,Problemli,1
+41826,33,378,Lisans,Kiracı,Düzgün,0
+55987,33,753,Lise,Ev Sahibi,Düzgün,1
+49435,50,457,Lise,Ev Sahibi,Düzgün,1
+66549,21,573,Ortaokul,Ev Sahibi,Düzgün,1
+51713,21,557,Ortaokul,Ev Sahibi,Düzgün,1
+52254,56,658,Lise,Ev Sahibi,Düzgün,1
+44545,57,440,Lisans,Kiracı,Düzgün,0
+49145,34,646,Lisans,Kiracı,Düzgün,1
+54617,54,802,Lisans,Kiracı,Problemli,1
+24347,56,463,Lisans,Ev Sahibi,Düzgün,0
+29777,69,618,Lise,Kiracı,Problemli,0
+61148,46,533,Lise,Kiracı,Düzgün,1
+52562,69,642,Lise,Ev Sahibi,Problemli,0
+47240,53,601,Lisans,Ev Sahibi,Düzgün,1
+50276,55,535,Lisans,Kiracı,Düzgün,1
+55213,56,648,Lisans,Kiracı,Düzgün,1
+41903,67,780,Lisans,Kiracı,Düzgün,1
+38325,54,580,Ortaokul,Kiracı,Problemli,0
+52937,69,671,Lisans,Kiracı,Düzgün,1
+35324,52,470,Lise,Ev Sahibi,Düzgün,0
+56123,24,504,Lisans,Ev Sahibi,Problemli,1
+24461,44,647,Ortaokul,Ev Sahibi,Düzgün,1
+65437,45,748,Lise,Kiracı,Düzgün,1
+57088,39,635,Lisans,Ev Sahibi,Düzgün,1
+53840,31,568,Lise,Kiracı,Düzgün,1
+64740,24,599,Lise,Kiracı,Düzgün,1
+74982,54,474,Ortaokul,Ev Sahibi,Düzgün,1
+65215,39,660,Lisans,Kiracı,Problemli,1
+22386,22,688,Ortaokul,Kiracı,Düzgün,1
+30806,19,554,Ortaokul,Ev Sahibi,Düzgün,1
+40627,44,552,Ortaokul,Kiracı,Düzgün,1
+50391,38,626,Lise,Ev Sahibi,Problemli,1
+57764,55,556,Lise,Kiracı,Problemli,1
+39113,32,593,Lise,Ev Sahibi,Düzgün,1
+52801,38,809,Lise,Kiracı,Problemli,1
+38669,27,575,Lise,Kiracı,Düzgün,1
+40827,40,564,Lise,Ev Sahibi,Düzgün,1
+28900,56,535,Lise,Kiracı,Düzgün,1
+36151,22,674,Lise,Kiracı,Düzgün,1
+29724,18,581,Ortaokul,Kiracı,Düzgün,1
+35361,30,535,Lisans,Kiracı,Problemli,0
+65804,38,732,Ortaokul,Kiracı,Düzgün,1
+35759,43,741,Lise,Kiracı,Problemli,0
+89485,67,539,Ortaokul,Ev Sahibi,Düzgün,1
+57399,62,413,Lise,Kiracı,Düzgün,0
+52772,38,700,Lisans,Kiracı,Düzgün,1
+37124,35,531,Ortaokul,Kiracı,Düzgün,1
+60504,54,679,Lisans,Kiracı,Düzgün,1
+41365,62,402,Ortaokul,Ev Sahibi,Düzgün,0
+51830,49,689,Lise,Kiracı,Düzgün,1
+88401,53,478,Lise,Ev Sahibi,Düzgün,1
+48559,34,673,Lisans,Kiracı,Problemli,1
+67239,52,601,Lise,Ev Sahibi,Düzgün,1
+39452,66,504,Lisans,Ev Sahibi,Düzgün,1
+49475,28,559,Lisans,Ev Sahibi,Düzgün,1
+76562,38,668,Lisans,Ev Sahibi,Problemli,1
+40595,69,610,Lisans,Ev Sahibi,Problemli,0
+77186,43,658,Ortaokul,Kiracı,Düzgün,1
+60616,21,797,Ortaokul,Kiracı,Düzgün,1
+41562,51,443,Lisans,Ev Sahibi,Düzgün,0
+59486,69,761,Lise,Kiracı,Problemli,0
+64588,65,610,Lisans,Kiracı,Düzgün,1
+59327,35,510,Lise,Ev Sahibi,Düzgün,1
+26446,57,466,Ortaokul,Kiracı,Düzgün,0
+39092,52,581,Ortaokul,Ev Sahibi,Düzgün,1
+46287,58,692,Lise,Ev Sahibi,Problemli,1
+48883,46,587,Lise,Ev Sahibi,Düzgün,1
+59310,69,751,Lisans,Ev Sahibi,Düzgün,1
+52665,46,454,Ortaokul,Kiracı,Düzgün,1
+29969,55,598,Lisans,Kiracı,Problemli,0
+55702,59,474,Lise,Kiracı,Problemli,1
+59158,38,636,Lise,Kiracı,Düzgün,1
+58396,59,688,Lise,Ev Sahibi,Düzgün,1
+66211,30,557,Lisans,Ev Sahibi,Problemli,1
+62508,66,339,Ortaokul,Kiracı,Düzgün,0
+56887,58,619,Lisans,Kiracı,Düzgün,1
+48947,34,643,Lise,Ev Sahibi,Düzgün,1
+25085,26,640,Lisans,Kiracı,Problemli,0
+56444,58,723,Lisans,Kiracı,Düzgün,1
+53115,18,492,Lise,Kiracı,Problemli,1
+54073,19,668,Lise,Ev Sahibi,Düzgün,1
+30848,65,719,Lisans,Ev Sahibi,Düzgün,1
+33784,46,422,Lisans,Ev Sahibi,Düzgün,0
+65797,50,631,Lise,Ev Sahibi,Düzgün,1
+49406,27,549,Lise,Kiracı,Düzgün,1
+60222,67,591,Ortaokul,Kiracı,Düzgün,1
+50424,57,634,Lisans,Ev Sahibi,Düzgün,1
+50446,38,551,Lisans,Kiracı,Problemli,1
+64074,45,532,Lisans,Ev Sahibi,Problemli,1
+42259,28,603,Lisans,Ev Sahibi,Düzgün,1
+51441,51,491,Lise,Ev Sahibi,Düzgün,1
+43065,25,491,Lise,Ev Sahibi,Düzgün,0
+43482,39,667,Lisans,Ev Sahibi,Düzgün,1
+45362,25,485,Lisans,Ev Sahibi,Problemli,1
+53332,66,666,Lisans,Kiracı,Düzgün,1
+42818,32,646,Ortaokul,Kiracı,Düzgün,1
+68836,34,427,Ortaokul,Kiracı,Problemli,1
+36580,40,532,Lisans,Ev Sahibi,Düzgün,1
+47196,41,719,Lisans,Kiracı,Düzgün,1
+43404,62,501,Ortaokul,Ev Sahibi,Düzgün,1
+71704,36,553,Ortaokul,Kiracı,Düzgün,1
+52948,22,646,Lise,Ev Sahibi,Düzgün,1
+65477,49,678,Lisans,Kiracı,Problemli,1
+27716,61,574,Lisans,Ev Sahibi,Problemli,0
+54005,18,540,Lise,Ev Sahibi,Düzgün,1
+63344,40,742,Lisans,Kiracı,Problemli,1
+51234,54,773,Lisans,Kiracı,Düzgün,1
+65982,25,697,Lise,Ev Sahibi,Problemli,1
+42240,30,608,Lisans,Kiracı,Düzgün,1
+71140,25,519,Lise,Kiracı,Problemli,1
+84483,40,516,Lisans,Ev Sahibi,Problemli,1
+44557,60,652,Lisans,Ev Sahibi,Düzgün,1
+43317,18,641,Lise,Ev Sahibi,Problemli,0
+71800,62,740,Lisans,Kiracı,Problemli,0
+73693,68,665,Ortaokul,Kiracı,Problemli,0
+42157,41,449,Lise,Ev Sahibi,Düzgün,0
+43697,52,705,Lisans,Ev Sahibi,Problemli,0
+45773,41,500,Lise,Ev Sahibi,Problemli,1
+29833,34,561,Lisans,Kiracı,Düzgün,1
+36220,22,625,Ortaokul,Kiracı,Problemli,0
+34937,37,799,Lisans,Kiracı,Düzgün,1
+38483,38,910,Lise,Kiracı,Düzgün,1
+49479,57,660,Lisans,Kiracı,Düzgün,1
+53513,48,581,Lise,Kiracı,Düzgün,1
+73257,63,653,Ortaokul,Ev Sahibi,Düzgün,1
+35024,53,688,Ortaokul,Kiracı,Düzgün,1
+64764,28,567,Lisans,Ev Sahibi,Problemli,1
+46790,69,779,Lisans,Ev Sahibi,Düzgün,1
+49258,32,623,Ortaokul,Ev Sahibi,Düzgün,1
+60122,36,649,Ortaokul,Kiracı,Düzgün,1
+33159,24,666,Lisans,Ev Sahibi,Düzgün,1
+55736,68,642,Lise,Ev Sahibi,Problemli,0
+52496,45,683,Lisans,Ev Sahibi,Düzgün,1
+57386,68,538,Ortaokul,Ev Sahibi,Problemli,0
+54337,60,544,Lisans,Ev Sahibi,Düzgün,1
+86829,22,489,Lisans,Ev Sahibi,Düzgün,1
+40433,22,643,Lise,Kiracı,Düzgün,1
+42035,47,677,Lisans,Ev Sahibi,Düzgün,1
+40652,49,645,Lise,Kiracı,Düzgün,1
+41667,25,767,Lise,Ev Sahibi,Düzgün,1
+40439,27,599,Lisans,Kiracı,Düzgün,1
+67835,55,666,Lisans,Kiracı,Problemli,1
+71307,64,490,Lise,Ev Sahibi,Düzgün,0
+41438,49,561,Lisans,Ev Sahibi,Düzgün,1
+37514,65,669,Lise,Kiracı,Düzgün,1
+57071,45,684,Ortaokul,Kiracı,Düzgün,1
+41716,34,570,Lise,Ev Sahibi,Problemli,0
+59493,48,592,Lisans,Kiracı,Düzgün,1
+53043,25,448,Lisans,Ev Sahibi,Düzgün,1
+27263,57,564,Lisans,Kiracı,Problemli,0
+73212,42,689,Lisans,Ev Sahibi,Düzgün,1
+76938,26,657,Lise,Ev Sahibi,Düzgün,1
+40808,19,650,Lise,Kiracı,Düzgün,1
+44184,32,604,Lisans,Kiracı,Düzgün,1
+54287,67,600,Lisans,Kiracı,Problemli,0
+55016,20,533,Lisans,Ev Sahibi,Problemli,1
+59878,66,669,Lise,Ev Sahibi,Problemli,0
+80153,53,642,Lisans,Ev Sahibi,Düzgün,1
+47345,21,649,Lise,Kiracı,Düzgün,1
+38025,31,547,Lisans,Kiracı,Problemli,0
+29310,58,384,Ortaokul,Kiracı,Düzgün,0
+39036,58,709,Ortaokul,Kiracı,Düzgün,1
+49503,42,552,Lisans,Ev Sahibi,Düzgün,1
+76918,67,513,Lisans,Ev Sahibi,Düzgün,1
+42235,27,669,Lise,Ev Sahibi,Düzgün,1
+53356,38,560,Lisans,Kiracı,Problemli,1
+49753,53,705,Lise,Ev Sahibi,Problemli,1
+67825,29,661,Ortaokul,Ev Sahibi,Düzgün,1
+87903,44,668,Lise,Ev Sahibi,Düzgün,1
+42036,57,463,Ortaokul,Ev Sahibi,Düzgün,0
+42658,19,721,Lisans,Kiracı,Problemli,0
+65662,30,626,Lisans,Kiracı,Düzgün,1
+60228,49,563,Lise,Ev Sahibi,Problemli,1
+77700,48,614,Lisans,Kiracı,Düzgün,1
+58758,33,422,Lise,Kiracı,Düzgün,1
+44610,49,640,Lisans,Ev Sahibi,Düzgün,1
+58859,49,497,Lisans,Ev Sahibi,Problemli,1
+66630,51,464,Ortaokul,Ev Sahibi,Düzgün,1
+62307,28,447,Lisans,Kiracı,Düzgün,1
+57609,27,711,Ortaokul,Kiracı,Düzgün,1
+66000,32,537,Ortaokul,Ev Sahibi,Problemli,1
+67539,34,753,Lise,Ev Sahibi,Problemli,1
+70732,57,546,Lise,Ev Sahibi,Düzgün,1
+59730,35,429,Lise,Ev Sahibi,Problemli,1
+47493,26,488,Ortaokul,Ev Sahibi,Düzgün,1
+52200,42,723,Lisans,Ev Sahibi,Düzgün,1
+68097,57,584,Lise,Kiracı,Düzgün,1
+37745,31,545,Lise,Ev Sahibi,Düzgün,1
+55530,42,616,Lise,Ev Sahibi,Problemli,1
+44099,67,650,Lise,Ev Sahibi,Problemli,0
+50431,39,711,Lisans,Kiracı,Düzgün,1
+69176,69,744,Lise,Ev Sahibi,Düzgün,1
+52866,47,564,Ortaokul,Kiracı,Problemli,1
+50696,37,467,Lisans,Ev Sahibi,Problemli,1
+29602,38,558,Ortaokul,Kiracı,Düzgün,1
+61193,61,626,Lise,Ev Sahibi,Problemli,0
+59682,49,503,Ortaokul,Kiracı,Düzgün,1
+82448,68,504,Lise,Kiracı,Düzgün,1
+45383,63,634,Lise,Kiracı,Problemli,0
+53287,66,595,Lisans,Ev Sahibi,Düzgün,1
+53740,38,603,Ortaokul,Kiracı,Düzgün,1
+73661,52,524,Lisans,Kiracı,Düzgün,1
+48570,49,576,Ortaokul,Ev Sahibi,Problemli,1
+54185,47,507,Ortaokul,Kiracı,Problemli,1
+59118,56,689,Lisans,Ev Sahibi,Düzgün,1
+52799,66,703,Lisans,Ev Sahibi,Düzgün,1
+43303,29,415,Lise,Ev Sahibi,Düzgün,0
+52911,58,507,Lisans,Kiracı,Düzgün,1
+66104,64,450,Ortaokul,Ev Sahibi,Düzgün,0
+34602,35,534,Lisans,Kiracı,Problemli,0
+51994,38,591,Lisans,Kiracı,Düzgün,1
+39498,30,455,Ortaokul,Kiracı,Düzgün,0
+67925,38,507,Lise,Ev Sahibi,Düzgün,1
+27152,25,499,Ortaokul,Kiracı,Düzgün,0
+41616,63,620,Lisans,Ev Sahibi,Problemli,0
+55658,57,606,Lise,Ev Sahibi,Düzgün,1
+73482,63,527,Lise,Kiracı,Düzgün,1
+49013,24,617,Lise,Kiracı,Düzgün,1
+41672,40,545,Lise,Ev Sahibi,Düzgün,1
+78217,61,572,Lise,Ev Sahibi,Düzgün,1
+28279,49,767,Lise,Ev Sahibi,Düzgün,1
+17017,28,734,Lisans,Kiracı,Düzgün,1
+56600,39,470,Lise,Kiracı,Düzgün,1
+42469,39,682,Lisans,Kiracı,Düzgün,1
+34681,60,681,Lise,Kiracı,Düzgün,1
+60625,42,485,Lisans,Kiracı,Problemli,1
+53657,39,681,Lise,Ev Sahibi,Düzgün,1
+41538,45,753,Lise,Kiracı,Düzgün,1
+30795,46,487,Lisans,Kiracı,Düzgün,0
+63086,30,508,Lisans,Ev Sahibi,Düzgün,1
+59753,35,701,Lisans,Ev Sahibi,Problemli,1
+48512,19,627,Lise,Kiracı,Düzgün,1
+77699,46,655,Ortaokul,Ev Sahibi,Problemli,1
+33948,38,634,Lisans,Kiracı,Düzgün,1
+27117,32,639,Lise,Kiracı,Düzgün,1
+39621,69,467,Lisans,Kiracı,Problemli,0
+49316,44,704,Lise,Ev Sahibi,Düzgün,1
+53650,67,716,Ortaokul,Kiracı,Düzgün,1
+46381,48,577,Lisans,Kiracı,Düzgün,1
+55280,32,595,Lise,Kiracı,Problemli,1
+31226,68,446,Lisans,Ev Sahibi,Düzgün,0
+71656,40,651,Lisans,Kiracı,Problemli,1
+48767,41,657,Lisans,Kiracı,Düzgün,1
+66759,61,593,Lisans,Kiracı,Problemli,0
+55140,30,712,Lise,Kiracı,Düzgün,1
+56851,39,566,Lise,Ev Sahibi,Problemli,1
+58546,60,656,Lise,Ev Sahibi,Düzgün,1
+56715,54,498,Lisans,Kiracı,Problemli,1
+59640,50,597,Lisans,Kiracı,Düzgün,1
+69937,20,582,Lise,Kiracı,Düzgün,1
+52947,36,622,Ortaokul,Kiracı,Düzgün,1
+60635,40,563,Lisans,Kiracı,Düzgün,1
+48653,46,586,Ortaokul,Ev Sahibi,Düzgün,1
+71601,47,682,Lise,Ev Sahibi,Problemli,1
+39854,56,556,Lise,Ev Sahibi,Problemli,0
+77014,61,439,Lise,Ev Sahibi,Düzgün,0
+49397,64,774,Lisans,Ev Sahibi,Problemli,0
+28538,42,738,Lisans,Ev Sahibi,Düzgün,1
+51921,54,470,Lise,Kiracı,Düzgün,1
+39784,64,668,Lisans,Ev Sahibi,Problemli,0
+62609,25,549,Ortaokul,Kiracı,Düzgün,1
+40210,59,626,Lise,Kiracı,Problemli,0
+43307,33,629,Lisans,Ev Sahibi,Düzgün,1
+21656,25,576,Lise,Kiracı,Düzgün,1
+43215,18,521,Lisans,Kiracı,Düzgün,1
+13641,61,530,Lise,Ev Sahibi,Düzgün,1
+26241,22,508,Lise,Kiracı,Düzgün,1
+61406,20,516,Ortaokul,Kiracı,Problemli,1
+61787,18,593,Lise,Ev Sahibi,Problemli,1
+56381,21,528,Lise,Ev Sahibi,Problemli,1
+35495,57,668,Lise,Ev Sahibi,Düzgün,1
+49284,52,748,Ortaokul,Kiracı,Düzgün,1
+49945,49,541,Lisans,Kiracı,Düzgün,1
+32624,59,623,Lisans,Ev Sahibi,Düzgün,1
+72550,51,649,Lisans,Ev Sahibi,Düzgün,1
+63160,60,647,Lisans,Ev Sahibi,Problemli,0
+46685,42,607,Lise,Kiracı,Düzgün,1
+50403,27,674,Lise,Kiracı,Düzgün,1
+53125,38,648,Lise,Ev Sahibi,Düzgün,1
+19373,63,476,Lisans,Kiracı,Düzgün,0
+46292,56,686,Lise,Ev Sahibi,Düzgün,1
+39770,44,688,Lisans,Kiracı,Problemli,0
+34975,44,523,Lise,Ev Sahibi,Düzgün,1
+45783,19,603,Lise,Ev Sahibi,Problemli,1
+76965,58,668,Lisans,Ev Sahibi,Düzgün,1
+59612,65,579,Lisans,Kiracı,Düzgün,1
+41432,30,707,Lisans,Ev Sahibi,Düzgün,1
+58588,26,836,Ortaokul,Ev Sahibi,Problemli,1
